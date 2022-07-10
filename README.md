@@ -1,6 +1,6 @@
 # Exercícios de Java
 
-Neste repositório estão alguns exercícios feitos na linguagem Java, tendo como referência o [curso de Java e Orientação a Objetos](https://www.udemy.com/course/java-curso-completo/) do Professor Nélio Alves.
+Neste repositório, estão alguns exercícios feitos na linguagem Java, tendo como referência o [curso de Java e Orientação a Objetos](https://www.udemy.com/course/java-curso-completo/) do Professor Nélio Alves.
 
 1. [Dollar Converter](https://github.com/plgisele/java_practice/tree/main/1_dollar_converter)
 2. [Account](https://github.com/plgisele/java_practice/tree/main/2_account)

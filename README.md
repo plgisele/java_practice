@@ -9,3 +9,6 @@ Neste repositório, estão alguns exercícios feitos na linguagem Java, tendo co
 5. [Product](https://github.com/plgisele/java_practice/tree/main/5_product)
 6. [Array - Product](https://github.com/plgisele/java_practice/tree/main/6_array_product)
 7. [Array - Rooms](https://github.com/plgisele/java_practice/tree/main/7_array_rooms)
+8. [Posts](https://github.com/plgisele/java_practice/tree/main/8_posts)
+9. [Contract](https://github.com/plgisele/java_practice/tree/main/9_contract)
+10. [Order Status](https://github.com/plgisele/java_practice/tree/main/10_order_status)

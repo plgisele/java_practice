@@ -1,4 +1,4 @@
-# Enums (Posts)
+# Posts
 
 > Instancie manualmente (hard code) os objetos mostrados abaixo e mostre-os na tela do terminal, conforme exemplo. 
 

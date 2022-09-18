@@ -12,3 +12,5 @@ Neste repositório, estão alguns exercícios feitos na linguagem Java, tendo co
 8. [Posts](https://github.com/plgisele/java_practice/tree/main/8_posts)
 9. [Contract](https://github.com/plgisele/java_practice/tree/main/9_contract)
 10. [Order Status](https://github.com/plgisele/java_practice/tree/main/10_order_status)
+11. [Employee](https://github.com/plgisele/java_practice/tree/main/11_ex_business)
+12. [Selling Product](https://github.com/plgisele/java_practice/tree/main/12_selling_product)

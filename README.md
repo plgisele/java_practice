@@ -14,3 +14,4 @@ Neste repositório, estão alguns exercícios feitos na linguagem Java, tendo co
 10. [Order Status](https://github.com/plgisele/java_practice/tree/main/10_order_status)
 11. [Employee](https://github.com/plgisele/java_practice/tree/main/11_ex_business)
 12. [Selling Product](https://github.com/plgisele/java_practice/tree/main/12_selling_product)
+13. [Tax](https://github.com/plgisele/java_practice/tree/main/13_tax)
